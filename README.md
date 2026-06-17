@@ -1,6 +1,6 @@
 # Hi there, I'm Suresh 👋
 
-I'm a Software Development Engineer with 2+ years of experience building scalable, full-stack applications and backend systems. I enjoy solving performance bottlenecks, designing clean APIs, and working with distributed systems.
+I'm a Software Development Engineer with 5+ years of experience building scalable, full-stack applications and backend systems. I enjoy solving performance bottlenecks, designing clean APIs, and working with distributed systems.
 
 - 🔭 Currently completing my Master’s in CS @ Northern Arizona University
 - 🧠 Interests: Backend systems, cloud-native architecture, algorithms, system design
